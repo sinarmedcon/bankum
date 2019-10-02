@@ -105,9 +105,9 @@
                 </ul>
             </div>
 
-            <a class="nav-item nav-link ml-3 mr-3" href="#">Blog</a>
+            <a class="nav-item nav-link ml-3 mr-3" href="<?= base_url();?>auth/blog">Blog</a>
             <a class="nav-item nav-link ml-3 mr-3" href="#">Bantuan</a>
-            <a class="nav-item nav-link ml-3 mr-3" href="#">Gabung</a>
+            <a class="nav-item nav-link ml-3 mr-3" href="<?= base_url();?>auth/gabung">Gabung</a>
 
             
 
