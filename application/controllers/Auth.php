@@ -31,4 +31,25 @@ class Auth extends CI_Controller{
         $this->load->view('auth/index/gabung');
         $this->load->view('auth/template/footer');
     }
+
+    public function admLogEnter()
+    {
+        
+    }
+
+    public function legalitas()
+    {
+        $t['title'] = 'Bankum :: Legalitas';
+        $this->load->view('auth/template/header', $t);
+        $this->load->view('auth/index/legalitas');
+        $this->load->view('auth/template/footer');
+    }
+
+    public function masuk()
+    {
+        $t['title'] = 'Bankum :: Masuk';
+        $this->load->view('auth/template/header', $t);
+        $this->load->view('auth/index/masuk');
+        $this->load->view('auth/template/footer');
+    }
 }
