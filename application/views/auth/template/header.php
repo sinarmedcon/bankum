@@ -15,6 +15,9 @@
     <!-- blogger sans -->
     <link rel="stylesheet" href="<?= base_url();?>assets/css/BloggerSans.css">
 
+    <!-- add animate.css -->
+    <link rel="stylesheet" href="<?= base_url();?>assets/css/animate.css">
+
     <style type="text/css" media="screen">
         body { font-size:18px; font-family: "BloggerSans", Georgia; }
         .big { font-size:25px;}
@@ -34,7 +37,7 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav ml-auto">
-            <a class="nav-item nav-link active ml-3 mr-3" href="<?= base_url();?>">Home <span class="sr-only">(current)</span></a>
+            <a class="nav-item nav-link ml-3 mr-3" href="<?= base_url();?>" id="home">Home</a>
 
             <div class="nav-item dropdown">
                 <button class="btn btn-default nav-link dropdown-toggle" type="button" data-toggle="dropdown">
@@ -105,9 +108,9 @@
                 </ul>
             </div>
 
-            <a class="nav-item nav-link ml-3 mr-3" href="<?= base_url();?>auth/blog">Blog</a>
-            <a class="nav-item nav-link ml-3 mr-3" href="#">Bantuan</a>
-            <a class="nav-item nav-link ml-3 mr-3" href="<?= base_url();?>auth/gabung">Gabung</a>
+            <a class="nav-item nav-link ml-3 mr-3" href="<?= base_url();?>auth/blog" id="blog">Blog</a>
+            <a class="nav-item nav-link ml-3 mr-3" href="#" id="bantuan">Bantuan</a>
+            <a class="nav-item nav-link ml-3 mr-3" href="<?= base_url();?>auth/gabung" id="gabung">Gabung</a>
 
             
 
@@ -170,5 +173,6 @@ $(document).ready(function(){
 
 });
 </script>
+
 
 <script src="<?= base_url();?>assets/js/api.js"></script>
