@@ -17,7 +17,7 @@
                 <p class="text-white mt-3"><b>Layanan Kami</b></p>
                 <p><a href="#" class="text-white link">Bantuan Hukum</a></p>
                 <p><a href="#" class="text-white link">Layanan Hukum</a></p>
-                <p><a href="#" class="text-white link">Legalitas</a></p>
+                <p><a href="<?= base_url();?>auth/legalitas" class="text-white link">Legalitas</a></p>
                 <p><a href="#" class="text-white link">Paralegal</a></p>
                 <p><a href="#" class="text-white link">Berita Hukum</a></p>
                 <p><a href="#" class="text-white link">UU & Peraturan</a></p>
@@ -31,7 +31,7 @@
                 <p><a href="#" class="text-white link">Karir</a></p>
                 <p><a href="#" class="text-white link">Volunter / Relawan</a></p>
                 <p><a href="#" class="text-white link">Mitra Kami</a></p>
-                <p><a href="#" class="text-white link">Tentang Kami</a></p>
+                <p><a href="<?= base_url();?>auth/tentang_kami" class="text-white link">Tentang Kami</a></p>
             
             </div>
 
