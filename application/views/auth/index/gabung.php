@@ -1,7 +1,7 @@
 <br>
     <br>
 
-<div class="jumbotron jumbotron-fluid text-white text-center" style="background:linear-gradient(40deg, #F25CA2, #0433BF, #032CA6, #021859, #0B9ED9)">
+<div class="jumbotron jumbotron-fluid text-white text-center" style="background:linear-gradient(40deg, #5327F2, #0511F2, #030A8C, #010440, #0D0D0D)">
     <div class="container">
         <br>
             <br>
@@ -17,7 +17,7 @@
 </div>
 
 
-<div class="jumbotron jumbotron-fluid bg-white">
+<div class="jumbotron jumbotron-fluid bg-white mb-0">
 
     <div class="container">
     
@@ -46,7 +46,7 @@
 </div>
 
 
-<div class="jumbotron jumbotron-fluid bg-white" id="start">
+<div class="jumbotron jumbotron-fluid bg-white mb-0" id="start">
 
     <div class="container">
     
@@ -889,7 +889,7 @@
     $(function(){
         $('#start').hide();
         $('#btn-start').click(function(){
-            $('#start').toggle();
+           $('#start').toggle().addClass("animated bounceInDown");
         })
     })
 
