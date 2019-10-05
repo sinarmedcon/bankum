@@ -52,4 +52,12 @@ class Auth extends CI_Controller{
         $this->load->view('auth/index/masuk');
         $this->load->view('auth/template/footer');
     }
+
+    public function tentang_kami()
+    {
+        $t['title'] = 'Bankum :: Tentang Kami';
+        $this->load->view('auth/template/header', $t);
+        $this->load->view('auth/index/tentang_kami');
+        $this->load->view('auth/template/footer');
+    }
 }
