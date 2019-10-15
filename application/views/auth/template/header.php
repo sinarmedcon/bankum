@@ -18,6 +18,10 @@
     <!-- add animate.css -->
     <link rel="stylesheet" href="<?= base_url();?>assets/css/animate.css">
 
+    <!-- owl carousel -->
+    <link rel="stylesheet" href="<?= base_url();?>assets/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="<?= base_url();?>assets/css/owl.theme.default.min.css">
+
     <style type="text/css" media="screen">
         body { font-size:18px; font-family: "BloggerSans", Georgia; }
         .big { font-size:25px;}
@@ -60,7 +64,7 @@
                 <span class="caret"></span></button>
                 <ul class="dropdown-menu dropdown-menu-lg-right">
                     <li class="dropdown-submenu dropright">
-                        <button class="test dropdown-toggle btn btn-white" tabindex="-1" href="#" id="ln">Lembaran Negara<span class="caret"></span></button>
+                        <button class="test dropdown-toggle btn btn-white text-dark" tabindex="-1" href="#" id="ln">Lembaran Negara<span class="caret"></span></button>
                         <ul class="dropdown-menu dropdown-menu-lg-right mr-12" aria-labelledby="dropdownMenu2" id="ln-list">
                             <li><a href="#" class="dropdown-item">Undang-Undang</a></li>
                             <li><a href="#" class="dropdown-item">PERPU</a></li>
@@ -71,13 +75,13 @@
                             <li><a href="#" class="dropdown-item">Otoritas Jasa Keuangan</a></li>
                         </ul>
 
-                        <button class="test dropdown-toggle btn btn-white" tabindex="-1" href="#" id="bn">Berita Negara<span class="caret"></span></button>
+                        <button class="test dropdown-toggle btn btn-white text-dark" tabindex="-1" href="#" id="bn">Berita Negara<span class="caret"></span></button>
                         <ul class="dropdown-menu dropdown-menu-lg-right mr-12" aria-labelledby="dropdownMenu2" id="bn-list">
                             <li><a href="#" class="dropdown-item">Peraturan Menteri</a></li>
                             <li><a href="#" class="dropdown-item">Peraturan LPNK</a></li>
                         </ul>
 
-                        <button class="test dropdown-toggle btn btn-white" tabindex="-1" href="#" id="pl">Peraturan Lain-lain<span class="caret"></span></button>
+                        <button class="test dropdown-toggle btn btn-white text-dark" tabindex="-1" href="#" id="pl">Peraturan Lain-lain<span class="caret"></span></button>
                         <ul class="dropdown-menu dropdown-menu-lg-right mr-12" aria-labelledby="dropdownMenu2" id="pl-list">
                             <li><a href="#" class="dropdown-item">Undang-Undang Dasar</a></li>
                             <li><a href="#" class="dropdown-item">Tap MPR</a></li>
@@ -90,13 +94,13 @@
                             <li><a href="#" class="dropdown-item">Instruksi Presiden</a></li>
                         </ul>
 
-                        <button class="test dropdown-toggle btn btn-white" tabindex="-1" href="#" id="pu">Putusan / Uji Materi<span class="caret"></span></button>
+                        <button class="test dropdown-toggle btn btn-white text-dark" tabindex="-1" href="#" id="pu">Putusan / Uji Materi<span class="caret"></span></button>
                         <ul class="dropdown-menu dropdown-menu-lg-right mr-12" aria-labelledby="dropdownMenu2" id="pu-list">
                             <li><a href="#" class="dropdown-item">Uji Materi Mahkamah Konstitusi</a></li>
                             <li><a href="#" class="dropdown-item">Uji Materi Mahkamah Agung</a></li>
                         </ul>
 
-                        <button class="test dropdown-toggle btn btn-white" tabindex="-1" href="#" id="kh">Kitab Hukum<span class="caret"></span></button>
+                        <button class="test dropdown-toggle btn btn-white text-dark" tabindex="-1" href="#" id="kh">Kitab Hukum<span class="caret"></span></button>
                         <ul class="dropdown-menu dropdown-menu-lg-right mr-12" aria-labelledby="dropdownMenu2" id="kh-list">
                             <li><a href="#" class="dropdown-item">KUH Pidana</a></li>
                             <li><a href="#" class="dropdown-item">KUH Perdata</a></li>
