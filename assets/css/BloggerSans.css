@@ -1,0 +1,12 @@
+/* Webfont: BloggerSans */@font-face {
+    font-family: 'Viga', sans-serif;
+    src: url('https://localhost/bankum/assets/font/Viga-Regular.ttf'); /* IE9 Compat Modes */
+    src: url('https://localhost/bankum/assets/font/Viga-Regular.ttf') format('embedded-opentype'), /* IE6-IE8 */
+         url('https://localhost/bankum/assets/font/Viga-Regular.ttf') format('ttf'), /* Modern Browsers */
+         url('https://localhost/bankum/assets/font/Viga-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('https://localhost/bankum/assets/font/Viga-Regular.ttf') format('ttf'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
