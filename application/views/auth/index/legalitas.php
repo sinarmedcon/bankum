@@ -271,7 +271,8 @@
 
               <div class="card-body text-white" style="background:#F25CA2">
               
-                <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> Pengecekan Nama PT</p>
+                <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> Pengecekan Nama</p>
+                <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll" style="opacity:0;"> PT</p>
                 <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> Akta Notaris</p>
                 <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> SK Menteri</p>
 
@@ -312,7 +313,8 @@
 
               <div class="card-body text-white" style="background:#D95284">
               
-                <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> Pengecekan Nama PT</p>
+                <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> Pengecekan Nama</p>
+                <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll" style="opacity:0;"> PT</p>
                 <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> Akta Notaris</p>
                 <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> SK Menteri</p>
                 <p class="mb-1"><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> SKDP, NPWP</p>
@@ -355,14 +357,16 @@
 
               <div class="card-body text-white" style="background:#F25CA2">
               
-                <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> Pengecekan Nama PT</p>
+                <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> Pengecekan Nama</p>
+                <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll" style="opacity:0;"> PT</p>
                 <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> Akta Notaris</p>
                 <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> SK Menteri</p>
                 <p class="mb-1"><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> SKDP, NPWP</p>
                 <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll" style="opacity:0"> SIUP, TDP, NIB</p>
                 <p class="mb-1"><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> Virtual Office</p>
                 <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll" style="opacity:0"> 1 Tahun</p>
-                <p class="mb-1"><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> Layanan Resepsionis</p>
+                <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> Layanan</p>
+                <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll" style="opacity:0;"> Resepsionis</p>
 
 
               </div>
@@ -403,14 +407,16 @@
 
           <div class="card-body text-white" style="background:#D95284">
           
-            <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> Pengecekan Nama PT</p>
+            <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> Pengecekan Nama</p>
+            <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll" style="opacity:0;"> PT</p>
             <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> Akta Notaris</p>
             <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> SK Menteri</p>
             <p class="mb-1"><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> SKDP, NPWP</p>
             <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll" style="opacity:0"> SIUP, TDP, NIB</p>
             <p class="mb-1"><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> Virtual Office</p>
             <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll" style="opacity:0"> 1 Tahun</p>
-            <p class="mb-1"><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> Layanan Resepsionis</p>
+            <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> Layanan</p>
+            <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll" style="opacity:0;"> Resepsionis</p>
             <p class="mb-1"><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> Pengurusan PKP</p>
 
           </div>
@@ -443,7 +449,7 @@
           <li class="list-group-item"><img src="<?= base_url();?>assets/icon/next.png" width="25" height="25"> Izin Prinsip</li>
           <li class="list-group-item"><img src="<?= base_url();?>assets/icon/next.png" width="25" height="25"> Izin HAKI</li>
           <li class="list-group-item"><img src="<?= base_url();?>assets/icon/next.png" width="25" height="25"> Izin Kesehatan</li>
-          <li class="list-group-item"><img src="<?= base_url();?>assets/icon/next.png" width="25" height="25"> Pertanahan & Bangunan</li>
+          <li class="list-group-item"><img src="<?= base_url();?>assets/icon/next.png" width="25" height="25"> Pertanahan & <div class="ml-4"> Bangunan</div></li>
           <li class="list-group-item"><img src="<?= base_url();?>assets/icon/next.png" width="25" height="25"> Izin Perdagangan</li>
           <li class="list-group-item"><img src="<?= base_url();?>assets/icon/next.png" width="25" height="25"> Izin Polri</li>
         </ul>
@@ -456,7 +462,7 @@
           <li class="list-group-item"><img src="<?= base_url();?>assets/icon/next.png" width="25" height="25"> Izin Migas</li>
           <li class="list-group-item"><img src="<?= base_url();?>assets/icon/next.png" width="25" height="25"> Izin Perhubungan</li>
           <li class="list-group-item"><img src="<?= base_url();?>assets/icon/next.png" width="25" height="25"> Izin BKPM</li>
-          <li class="list-group-item"><img src="<?= base_url();?>assets/icon/next.png" width="25" height="25"> Jasa Pengurusan SIUP</li>
+          <li class="list-group-item"><img src="<?= base_url();?>assets/icon/next.png" width="25" height="25"> Jasa Pengurusan <div class="ml-4"> SIUP</div></li>
           <li class="list-group-item"><img src="<?= base_url();?>assets/icon/next.png" width="25" height="25"> Izin Imigrasi</li>
           <li class="list-group-item"><img src="<?= base_url();?>assets/icon/next.png" width="25" height="25"> Izin Pariwisata</li>
           <li class="list-group-item"><img src="<?= base_url();?>assets/icon/next.png" width="25" height="25"> Izin Bea Cukai</li>
@@ -469,12 +475,12 @@
       
         <ul class="list-group list-group-flush" style="opacity:0.5">
           <li class="list-group-item"><img src="<?= base_url();?>assets/icon/next.png" width="25" height="25"> Izin Sertifikasi</li>
-          <li class="list-group-item"><img src="<?= base_url();?>assets/icon/next.png" width="25" height="25"> Jasa Pengurusan SITU</li>
+          <li class="list-group-item"><img src="<?= base_url();?>assets/icon/next.png" width="25" height="25"> Jasa Pengurusan <div class="ml-4"> SITU</div></li>
           <li class="list-group-item"><img src="<?= base_url();?>assets/icon/next.png" width="25" height="25"> Izin Pertanian</li>
-          <li class="list-group-item"><img src="<?= base_url();?>assets/icon/next.png" width="25" height="25"> Izin Lingkungan Hidup</li>
-          <li class="list-group-item"><img src="<?= base_url();?>assets/icon/next.png" width="25" height="25"> Izin Pekerjaan Umum</li>
+          <li class="list-group-item"><img src="<?= base_url();?>assets/icon/next.png" width="25" height="25"> Izin Lingkungan <div class="ml-4"> Hidup</div></li>
+          <li class="list-group-item"><img src="<?= base_url();?>assets/icon/next.png" width="25" height="25"> Izin Pekerjaan <div class="ml-4"> Umum</div></li>
           <li class="list-group-item"><img src="<?= base_url();?>assets/icon/next.png" width="25" height="25"> Jasa Pembuatan CV</li>
-          <li class="list-group-item"><img src="<?= base_url();?>assets/icon/next.png" width="25" height="25"> Jasa Pembuatan SBU</li>
+          <li class="list-group-item"><img src="<?= base_url();?>assets/icon/next.png" width="25" height="25"> Jasa Pembuatan <div class="ml-4"> SBU</div></li>
           <li class="list-group-item"><img src="<?= base_url();?>assets/icon/next.png" width="25" height="25"> Jasa Pembuatan PT</li>
         </ul>
       
@@ -486,8 +492,8 @@
           <li class="list-group-item"><img src="<?= base_url();?>assets/icon/next.png" width="25" height="25"> Izin Gangguan</li>
           <li class="list-group-item"><img src="<?= base_url();?>assets/icon/next.png" width="25" height="25"> Izin Usaha Cargo</li>
           <li class="list-group-item"><img src="<?= base_url();?>assets/icon/next.png" width="25" height="25"> Izin ESDM</li>
-          <li class="list-group-item"><img src="<?= base_url();?>assets/icon/next.png" width="25" height="25"> Jasa Pembuatan NIK</li>
-          <li class="list-group-item"><img src="<?= base_url();?>assets/icon/next.png" width="25" height="25"> Jasa Pembuatan API</li>
+          <li class="list-group-item"><img src="<?= base_url();?>assets/icon/next.png" width="25" height="25"> Jasa Pembuatan <div class="ml-4"> NIK</div></li>
+          <li class="list-group-item"><img src="<?= base_url();?>assets/icon/next.png" width="25" height="25"> Jasa Pembuatan <div class="ml-4"> API</div></li>
           <li class="list-group-item"><img src="<?= base_url();?>assets/icon/next.png" width="25" height="25"> Jasa Pendirian PMA</li>
         </ul>
       
@@ -648,7 +654,8 @@
 
             <div class="card-body text-white" style="background:#F25CA2">
             
-              <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> Pengecekan Nama CV</p>
+              <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> Pengecekan Nama</p>
+              <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll" style="opacity:0"> CV</p>
               <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> Akta Notaris</p>
               <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> SK Menteri</p>
 
@@ -689,7 +696,8 @@
 
             <div class="card-body text-white" style="background:#D95284">
             
-              <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> Pengecekan Nama CV</p>
+              <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> Pengecekan Nama</p>
+              <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll" style="opacity:0"> CV</p>
               <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> Akta Notaris</p>
               <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> SK Menteri</p>
               <p class="mb-1"><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> SKDP, NPWP</p>
@@ -732,14 +740,16 @@
 
             <div class="card-body text-white" style="background:#F25CA2">
             
-              <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> Pengecekan Nama CV</p>
+              <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> Pengecekan Nama</p>
+              <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll" style="opacity:0"> CV</p>
               <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> Akta Notaris</p>
               <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> SK Menteri</p>
               <p class="mb-1"><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> SKDP, NPWP</p>
               <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll" style="opacity:0"> SIUP, TDP, NIB</p>
               <p class="mb-1"><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> Virtual Office</p>
               <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll" style="opacity:0"> 1 Tahun</p>
-              <p class="mb-1"><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> Layanan Resepsionis</p>
+              <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> Layanan</p>
+              <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll" style="opacity:0"> Resepsionis</p>
 
 
             </div>
@@ -780,14 +790,16 @@
 
         <div class="card-body text-white" style="background:#D95284">
         
-          <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> Pengecekan Nama CV</p>
+          <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> Pengecekan Nama</p>
+          <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll" style="opacity:0"> CV</p>
           <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> Akta Notaris</p>
           <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> SK Menteri</p>
           <p class="mb-1"><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> SKDP, NPWP</p>
           <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll" style="opacity:0"> SIUP, TDP, NIB</p>
           <p class="mb-1"><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> Virtual Office</p>
           <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll" style="opacity:0"> 1 Tahun</p>
-          <p class="mb-1"><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> Layanan Resepsionis</p>
+          <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> Layanan</p>
+          <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll" style="opacity:0"> Resepsionis</p>
           <p class="mb-1"><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> Pengurusan PKP</p>
 
         </div>
@@ -969,10 +981,13 @@
 
             <div class="card-body text-white" style="background:#D95284">
             
-              <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> Persiapan Survei PKP</p>
-              <p class="mb-1"><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> Pendampingan Sertifikat</p>
+              <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> Persiapan Survei</p>
+              <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll" style="opacity:0"> PKP</p>
+              <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> Pendampingan</p>
+              <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll" style="opacity:0"> Sertifikat</p>
               <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll" style="opacity:0"> Elektronik</p>
-              <p class="mb-1"><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> Pendampingan Aktivasi</p>
+              <p class="mb-1"><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> Pendampingan</p>
+              <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll" style="opacity:0"> Aktivasi</p>
               <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll" style="opacity:0"> E-Faktur</p>
 
             </div>
@@ -1055,7 +1070,8 @@
 
         <div class="card-body text-white" style="background:#D95284">
         
-          <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> Akta Cabang Notaris</p>
+          <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> Akta Cabang</p>
+          <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll" style="opacity:0"> Notaris</p>
           <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> NPWP Cabang</p>
           <p><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> TDP Cabang</p>
           <p class="mb-1"><img src="<?= base_url();?>assets/icon/done.png" width="25" height="25" alt="doneAll"> Izin Cabang</p>
@@ -1087,7 +1103,7 @@
         <div class="input-group mb-3">
           <input type="text" name="pt" class="form-control rounded" placeholder="Masukkan Nama PT">
           <div class="input-group-append">
-            <button class="btn btn-outline-primary rounded" type="button" style="z-index:1; margin-left:-50px">Cari</button>
+            <button class="btn btn-outline-primary rounded" type="button" style="z-index:1; margin-left:-60px">Cari</button>
           </div>
         </div>
 
@@ -1109,7 +1125,7 @@
         <div class="input-group mb-3">
           <input type="text" name="cv" class="form-control rounded" placeholder="Masukkan Nama CV">
           <div class="input-group-append">
-            <button class="btn btn-outline-warning rounded" type="button" style="z-index:1; margin-left:-50px">Cari</button>
+            <button class="btn btn-outline-warning rounded" type="button" style="z-index:1; margin-left:-60px">Cari</button>
           </div>
         </div>
 
