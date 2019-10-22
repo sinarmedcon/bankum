@@ -45,7 +45,7 @@
               
                 <div class="col-md-4">
                 
-                  <ul class="list-group">
+                  <ul class="list-group ml-3">
                     <li>Jasa Izin Usaha</li>
                     <li>Jasa Izin Pribadi</li>
                     <li>Izin Prinsip</li>
