@@ -12,8 +12,8 @@
     <!-- favicion -->
     <link rel="shortcut icon" href="<?= base_url();?>assets/image/31.png">
 
-    <!-- blogger sans -->
-    <link rel="stylesheet" href="<?= base_url();?>assets/css/BloggerSans.css">
+    <!-- Viga -->
+    <link href="https://fonts.googleapis.com/css?family=Viga&display=swap" rel="stylesheet">
 
     <!-- add animate.css -->
     <link rel="stylesheet" href="<?= base_url();?>assets/css/animate.css">
@@ -23,7 +23,7 @@
     <link rel="stylesheet" href="<?= base_url();?>assets/css/owl.theme.default.min.css">
 
     <style type="text/css" media="screen">
-        body { font-size:18px; font-family: "BloggerSans", Georgia; }
+        body { font-size:18px; font-family: 'Viga', sans-serif;}
         .big { font-size:25px;}
     </style>
 
