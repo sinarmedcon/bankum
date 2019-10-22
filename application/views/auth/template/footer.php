@@ -5,7 +5,7 @@
         
             <div class="col-md-4">
             
-                <a href="#" class="link"><img src="<?= base_url();?>assets/image/29.png" width="225" height="75"></a><br><br>
+                <a href="#" class="link"><img src="<?= base_url();?>assets/image/29.png" width="225" height="120"></a><br><br>
                 <a href="#" class="link"><img src="<?= base_url();?>assets/image/playstore.png" width="225" height="75"></a><br><br>
                 <a href="#" class="link"><img src="<?= base_url();?>assets/image/appstore.png" width="225" height="75"></a>
             
