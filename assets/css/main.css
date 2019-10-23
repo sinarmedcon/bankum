@@ -2,17 +2,6 @@
 /* ==========================================================================
    #FONT
    ========================================================================== */
-/* Webfont: BloggerSans */@font-face {
-  font-family: 'Viga', sans-serif;
-  src: url('https://localhost/bankum/assets/font/Viga-Regular.ttf'); /* IE9 Compat Modes */
-  src: url('https://localhost/bankum/assets/font/Viga-Regular.ttf') format('embedded-opentype'), /* IE6-IE8 */
-       url('https://localhost/bankum/assets/font/Viga-Regular.ttf') format('ttf'), /* Modern Browsers */
-       url('https://localhost/bankum/assets/font/Viga-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
-       url('https://localhost/bankum/assets/font/Viga-Regular.ttf') format('ttf'); /* Legacy iOS */
-  font-style: normal;
-  font-weight: normal;
-  text-rendering: optimizeLegibility;
-}
 /* ==========================================================================
    #GRID
    ========================================================================== */
@@ -54,22 +43,7 @@
  * More sensible default box-sizing:
  * css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice
  */
-html {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-}
 
-* {
-  padding: 0;
-  margin: 0;
-}
-
-*, *:before, *:after {
-  -webkit-box-sizing: inherit;
-  -moz-box-sizing: inherit;
-  box-sizing: inherit;
-}
 
 /* ==========================================================================
    #RESET
@@ -77,17 +51,6 @@ html {
 /**
  * A very simple reset that sits on top of Normalize.css.
  */
-body,
-h1, h2, h3, h4, h5, h6,
-blockquote, p, pre,
-dl, dd, ol, ul,
-figure,
-hr,
-fieldset, legend {
-  margin: 0;
-  padding: 0;
-}
-
 /**
  * Remove trailing margins from nested lists.
  */
