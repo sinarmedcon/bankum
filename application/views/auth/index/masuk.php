@@ -21,22 +21,36 @@
 
                     <div class="container">
 
-                        <form action="">
+                        <form action="proses_masuk" method="post">
                     
                             <div class="form-group">
-                                <label for="exampleInputEmail1" class="text-danger">Alamat Email</label>
-                                <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Email">
-                                <small id="emailHelp" class="form-text text-muted">Kami tidak akan memberikan alamat email Anda Kepada siapapun</small>
+                                <label for="exampleInputEmail1" class="text-danger">Username</label>
+                                <?php if(form_error('username')){?>
+                                
+                                    <div class="text-warning small"><?= form_error('username');?></div>
+
+                                <?php
+                                }
+                                ?>
+                                <input type="text" name="username" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Username">
+                                <small id="emailHelp" class="form-text text-muted">Kami tidak akan memberikan username Anda Kepada siapapun</small>
                             </div>
 
                             <div class="form-group">
                                 <label for="exampleInputEmail1" class="text-danger">Kata Sandi</label>
-                                <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Kata sandi akun anda">
+                                <?php if(form_error('password')){?>
+                                
+                                    <div class="text-warning small"><?= form_error('password');?></div>
+
+                                <?php
+                                }
+                                ?>
+                                <input type="password" name="password" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Kata sandi akun anda">
                             </div>
 
                             <div class="text-center">
                             
-                                <button type="button" class="btn btn-outline-danger mt-3 mb-3">Masuk</button>
+                                <button type="submit" class="btn btn-outline-danger mt-3 mb-3 masuk">Masuk</button>
                             
                             </div>
                         
@@ -51,3 +65,6 @@
         </div>
     </div>
 </div>
+
+<script src="<?= base_url();?>assets/js/jquery.js"></script>
+
