@@ -13,3 +13,7 @@ Update Features
 4. Blog
 5. Masuk
 6. Gabung
+7. Blog Dashboard
+8. Database sementara untuk proses login.
+
+Note : untuk username dan password sementara telah disediakan di file masuk.txt
